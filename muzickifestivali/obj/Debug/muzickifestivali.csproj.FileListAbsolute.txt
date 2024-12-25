@@ -1,0 +1,39 @@
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.exe.config
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.exe
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.pdb
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.AssemblyReference.cache
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\MainWindow.g.cs
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\App.g.cs
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali_MarkupCompile.cache
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali_MarkupCompile.lref
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\MainWindow.baml
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.g.resources
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.Properties.Resources.resources
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.GenerateResource.cache
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.CoreCompileInputs.cache
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.exe
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.pdb
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\dodavanje.g.cs
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\dodavanje.baml
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\Prikaz.g.cs
+C:\Users\Zdravo\OneDrive\Radna površina\Fax\3 godina\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\Prikaz.baml
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.exe.config
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.exe
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\bin\Debug\muzickifestivali.pdb
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.AssemblyReference.cache
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\dodavanje.g.cs
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\MainWindow.g.cs
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\Prikaz.g.cs
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\App.g.cs
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali_MarkupCompile.cache
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali_MarkupCompile.lref
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\dodavanje.baml
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\MainWindow.baml
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\Prikaz.baml
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.g.resources
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.Properties.Resources.resources
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.GenerateResource.cache
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.csproj.CoreCompileInputs.cache
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.exe
+C:\Users\Zdravo\OneDrive\Desktop\Inzenjerstvo upotrebljivosti\muzickifestivali\muzickifestivali\obj\Debug\muzickifestivali.pdb
